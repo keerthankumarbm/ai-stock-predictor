@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+history.db
+user_feedback.txt
+stock_model.h5
